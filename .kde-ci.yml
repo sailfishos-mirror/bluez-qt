@@ -7,3 +7,4 @@ Options:
  test-before-installing: True
  require-passing-tests-on: ['Linux']
  enable-lsan: True
+ run-installed-library-check: True
